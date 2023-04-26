@@ -22,4 +22,5 @@ elif odp=="dzielenie":
     dzielenie=liczba1/liczba2
     print("Wynikiem dzielenia jest: ", dzielenie)
 else:
-    print("Bruh. It's really bad.")
+    print("Bruh. WOAAAH It's really bad.")
+#piekny kalkulator 10/10 pozdrawiam z rodzinką :*
