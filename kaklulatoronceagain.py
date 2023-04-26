@@ -3,7 +3,7 @@ liczba1=int(input())
 print("Druga liczba.")
 liczba2=int(input())
 
-print("Co robimy szefie? Proszę o pomoc, bo jestem zagubiony.")
+print("Co robimy szefie? woah D: Proszę o pomoc, bo jestem zagubiony.")
 odp=input()
 
 if odp == "dodawanie":
