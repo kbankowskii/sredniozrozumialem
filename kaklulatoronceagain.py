@@ -22,4 +22,4 @@ elif odp=="dzielenie":
     dzielenie=liczba1/liczba2
     print("Wynikiem dzielenia jest: ", dzielenie)
 else:
-    print("Bruh")
+    print("Bruh. It's really bad.")
